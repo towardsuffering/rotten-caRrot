@@ -6,8 +6,8 @@ module.exports = {
                 // siteUrl: "https://example.com", // Used for sitemap generation
                 manifestSettings: {
                     favicon: './content/images/rotten_carot.png', // Path is relative to the root
-                    siteName: 'rotten_caRrot', // Used in manifest.json
-                    shortName: 'caRrot', // Used in manifest.json
+                    siteName: 'rotten_caRot', // Used in manifest.json
+                    shortName: 'caRot', // Used in manifest.json
                     startUrl: '/', // Used in manifest.json
                     backgroundColor: '#FFFFFF', // Used in manifest.json
                     themeColor: '#000000', // Used in manifest.json
@@ -21,11 +21,11 @@ module.exports = {
                 // plausibleAnalytics: {
                 //     domain: 'example.com',
                 // },
-                // googleAnalytics: {
-                //     trackingId: "UA-XXXXXX-X",
-                //     anonymize: true, // Default true
-                //     environments: ["production", "development"] // Default ["production"]
-                // }
+                googleAnalytics: {
+                    trackingId: "UA-197563814-1",
+                    anonymize: true, // Default true
+                    environments: ["production", "development"] // Default ["production"]
+                }
             },
         },
     ],
