@@ -1,0 +1,93 @@
+{
+    "interests": [
+        {
+            "label": "Microsoft Office Suite",
+            "image": {
+                "src": "../../images/Office.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Google Suite",
+            "image": {
+                "src": "../../images/Google.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "AWS",
+            "image": {
+                "src": "../../images/AWS.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "WSL2",
+            "image": {
+                "src": "../../images/WSL2.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Docker",
+            "image": {
+                "src": "../../images/Docker.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Tableau",
+            "image": {
+                "src": "../../images/tab.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Python",
+            "image": {
+                "src": "../../images/jupyter.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Javascript",
+            "image": {
+                "src": "../../images/js.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "R",
+            "image": {
+                "src": "../../images/r.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "MySQL",
+            "image": {
+                "src": "../../images/sql.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "MongoDB",
+            "image": {
+                "src": "../../images/mongo.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Apache Spark",
+            "image": {
+                "src": "../../images/spark.png",
+                "alt": ""
+            }
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "+ Load More",
+        "initiallyShownInterests": 5
+    }
+}

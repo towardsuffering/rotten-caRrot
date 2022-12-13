@@ -1,0 +1,21 @@
+{
+    "intro": "Chris Rotunno",
+    "heroPhoto": {
+        "src": "../../images/rotten_carot.png",
+        "alt": "My Photo"
+    },
+    "image": {
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "",
+    "subtitle": {
+        "prefix": "",
+        "highlight": "Seasoned Business Strategist",
+        "suffix": ""
+    },
+    "description": "Personal landing page and blog",
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": true
+    }
+}
