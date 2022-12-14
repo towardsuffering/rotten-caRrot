@@ -34,7 +34,7 @@
             "category": "🧑🏻 SELF-AWARENESS & AWARENESS OF OTHERS",
             "title": "Emotional Intelligence",
             "description": "self-awareness and introspection, motivation, empathy, social skills, stress, communication, individual, team, and organizational conflict, new languages, and spirituality",
-            "tags": ["Emotional Quotient", "Disagreeing Agreeably", "Debate", "Perspective"],
+            "tags": ["Emotional Quotient", "Disagreeing Agreeably", "Debate", "Perspective", "Feelings"],
             "image": {
                 "src": "../../images/walk.png",
                 "alt": "Extendable Layout"
@@ -48,7 +48,7 @@
             "category": "🎵 Vibrations & Frequency",
             "title": "Music",
             "description": "song and dance, music composition and performance, passively listening to music, going to concerts and festivals, jamming with others, and sharing life through music",
-            "tags": ["Dub", "Americana", "Reggae", "Hip Hop", "EDM", "Rock", "Alternative", "Country", "Genre Defying"],
+            "tags": ["Dub", "Americana", "Reggae", "Hip Hop", "EDM", "Rock", "Alternative", "Country", " Indie", "Genre Defying"],
             "image": {
                 "src": "../../images/singing.jpg",
                 "alt": "Extendable Layout"
