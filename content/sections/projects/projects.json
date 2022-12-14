@@ -4,7 +4,7 @@
             "visible": true,
             "category": "🪙 TRANSACTIONS, CASH FLOW, DEBT & TAXES",
             "title": "Business Intelligence",
-            "description": "Including the practice of statistical methods, insights engines, decision science, disparate data, descriptive, predictive, and prescriptive analytics, target market selection, new product introductions, customer retention, pricing, segmentation, promotion, data warehouses, data lakes, cloud computing, machine learning and artifical intelligence",
+            "description": "statistical methods, insights engines, decision science, disparate data, descriptive, predictive, and prescriptive analytics, target market selection, new product introductions, customer retention, pricing, segmentation, promotion, data warehouses, data lakes, cloud computing, machine learning and artifical intelligence",
             "tags": ["Data Analytics", "Experimental Design", "Business Strategy", "Interactive Reporting", "CRISP-DM Model"],
             "image": {
                 "src": "../../images/lightning.jpg",
@@ -19,7 +19,7 @@
             "visible": true,
             "category": "🌐 SENDING & RECEIVING INFORMATION",
             "title": "Information Technology ",
-            "description": "Including the practice of software engineering, coding infrastructure, downloading/uploading, cryptography, data communications, blockchains, open-source software, software as a service (SaaS), content management, user interfaces, client-side scripting, server-side scripting, network connectivity, network security, web mail, e-commerce, progressive web applications, short-term memory, long-term memory, storage and cloud services",
+            "description": "software engineering, coding infrastructure, downloading/uploading, cryptography, data communications, blockchains, open-source software, software as a service (SaaS), content management, user interfaces, client-side scripting, server-side scripting, network connectivity, network security, web mail, e-commerce, progressive web applications, short-term memory, long-term memory, storage and cloud services",
             "tags": ["Full Stack Dev", "Blockchain", "Dev Sec Ops", "OSI Model"],
             "image": {
                 "src": "../../images/transport.jpg",
@@ -33,7 +33,7 @@
             "visible": true,
             "category": "🧑🏻 SELF-AWARENESS & AWARENESS OF OTHERS",
             "title": "Emotional Intelligence",
-            "description": "Including the study of self-awareness and introspection, motivation, empathy, social skills, stress, communication, individual, team, and organizational conflict, new languages, and spirituality",
+            "description": "self-awareness and introspection, motivation, empathy, social skills, stress, communication, individual, team, and organizational conflict, new languages, and spirituality",
             "tags": ["Emotional Quotient", "Disagreeing Agreeably", "Debate", "Perspective"],
             "image": {
                 "src": "../../images/walk.png",
@@ -47,7 +47,7 @@
             "visible": true,
             "category": "🎵 Vibrations & Frequency",
             "title": "Music",
-            "description": "Including the practice of song and dance, music composition and performance, passively listening to music, going to concerts and festivals, jamming with others, and sharing life through music",
+            "description": "song and dance, music composition and performance, passively listening to music, going to concerts and festivals, jamming with others, and sharing life through music",
             "tags": ["Dub", "Americana", "Reggae", "Hip Hop", "EDM", "Rock", "Alternative", "Country", "Genre Defying"],
             "image": {
                 "src": "../../images/singing.jpg",
@@ -61,7 +61,7 @@
             "visible": true,
             "category": "🏠 Family & Home",
             "title": "Cats & Dogs",
-            "description": "Including the daily care for beings outside of myself, walking the dog, changing the the cat box, feeding, bathing, nurturing, cuddling, and teaching tricks",
+            "description": "daily care for beings outside of myself, walking the dog, changing the the cat box, feeding, bathing, nurturing, cuddling, and teaching tricks",
             "tags": ["Sandy the Golden Retriever", "Honey the Tabby"],
             "image": {
                 "src": "../../images/animalfriends.jpg",

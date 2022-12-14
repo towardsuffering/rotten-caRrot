@@ -9,6 +9,6 @@ imageAlt: 'About Gatsby Theme Portfolio Minimal'
 
 💼 I have work experience in retail, corporate, and startup environments working in remote and onsite settings.
 
-🌎 My professional goal is to raise service standards because I believe higher standards will make the world is a better place.
+🌎 My professional goal is to raise service standards because I believe higher standards will make the world a better place.
 
 Photo by <a href="https://unsplash.com/@clemhlrdt" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Clément H</u></a> on Unsplash
