@@ -17,5 +17,11 @@
     "socialProfiles": {
         "from": ["LinkedIn", "Github", "Mail"],
         "showIcons": true
+    },
+    "calendly": {
+        "label": "Schedule Free Zoom Appointment",
+        "username": "christopher-a-rotunno",
+        "colorText": "#FFFFFF",
+        "colorButton": "#0069FF"
     }
 }
