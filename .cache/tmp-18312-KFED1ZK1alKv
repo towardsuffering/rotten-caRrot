@@ -1,0 +1,5 @@
+
+    const cmd = require("/home/carot/gatsby-theme-portfolio-minimal-4.0.0/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":8000,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/home/carot/gatsby-theme-portfolio-minimal-4.0.0/example-site","browserslist":[">0.25%","not dead"],"sitePackageJson":{"private":true,"name":"example-site","version":"0.1.0","license":"MIT","scripts":{"build":"gatsby build","develop":"gatsby develop","serve":"gatsby serve","clean":"gatsby clean","test":"echo \"Nothing to test here\"","lint":"echo \"Nothing to do here\""},"dependencies":{"gatsby":"^5.0.1","gatsby-theme-portfolio-minimal":"*","react":"^18.2.0","react-dom":"^18.2.0"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"debugInfo":null};
+    cmd(args);
+  
