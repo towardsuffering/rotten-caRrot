@@ -15,7 +15,7 @@
             "medium": "https://rotten-carot.medium.com",
             "linkedin": "https://www.linkedin.com/in/rotten-carot/",
             "twitter": "",
-            "mail": "mailto:christopherrotunno@gmail.com"
+            "mail": "mailto:chrisrotunno@rootlaboratories.net"
         }
     },
     "siteConfiguration": {
@@ -35,9 +35,9 @@
             ]
         },
         "featureToggles": {
-            "useDarkModeAsDefault": false,
+            "useDarkModeAsDefault": true,
             "useDarkModeBasedOnUsersPreference": true,
-            "useCookieBar": true
+            "useCookieBar": false
         }
     }
 }

@@ -4,8 +4,8 @@
             "visible": true,
             "category": "🪙 TRANSACTIONS, CASH FLOW, DEBT & TAXES",
             "title": "Business Intelligence",
-            "description": "My passion lies in the field of Business Intelligence, where I thrive on leveraging statistical methods, insights engines, and decision science to unlock valuable insights from disparate data sources. I excel in applying descriptive, predictive, and prescriptive analytics to drive strategic initiatives such as target market selection, new product introductions, customer retention, pricing, segmentation, and promotion. I am well-versed in utilizing data warehouses, data lakes, and cloud computing to efficiently manage and analyze data. Furthermore, I have a keen interest in exploring the potential of machine learning and artificial intelligence to further enhance decision-making processes in the realm of Business Intelligence.",
-            "tags": ["Data Analytics", "Experimental Design", "Business Strategy", "Interactive Reporting", "CRISP-DM Model"],
+            "description": "I thrive on leveraging statistical methods, insights engines, and decision science to unlock valuable insights from disparate data sources. I excel in applying descriptive, predictive, and prescriptive analytics to drive strategic initiatives such as target market selection, new product introductions, customer retention, pricing, segmentation, and promotion. I am well-versed in utilizing data warehouses, data lakes, and cloud computing to efficiently manage and analyze data. Furthermore, I have a keen interest in exploring the potential of machine learning and artificial intelligence to further enhance decision-making processes in the realm of Business Intelligence.",
+            "tags": ["Data Driven Insights", "Experimental Design", "Business Strategy", "Business Intelligence", "CRISP-DM Model"],
             "image": {
                 "src": "../../images/lightning.jpg",
                 "alt": "Quick Setup",
@@ -19,8 +19,8 @@
             "visible": true,
             "category": "🌐 SENDING & RECEIVING INFORMATION",
             "title": "Information Technology ",
-            "description": "In the field of Information Technology, I am deeply passionate about various aspects of software engineering, including coding infrastructure, cryptography, and data communications. I have a keen interest in exploring emerging technologies such as blockchains and open-source software. I am well-versed in software as a service (SaaS) models, content management, and designing user-friendly interfaces. Additionally, I have experience in client-side and server-side scripting, network connectivity, and network security. I am intrigued by areas such as web mail, e-commerce, and progressive web applications. Furthermore, I am fascinated by the concepts of short-term memory, long-term memory, storage, and cloud services, and their implications in the ever-evolving IT landscape.",
-            "tags": ["Full Stack Dev", "Blockchain", "Dev Sec Ops", "OSI Model"],
+            "description": "I am deeply passionate about various aspects of software engineering, including coding infrastructure, cryptography, and data communications. I have a keen interest in exploring emerging technologies such as blockchains and open-source software. I am well-versed in software as a service (SaaS) models, content management, and designing user-friendly interfaces. Additionally, I have experience in client-side and server-side scripting, network connectivity, and network security. I am intrigued by areas such as web mail, e-commerce, and progressive web applications. Furthermore, I am fascinated by the concepts of short-term memory, long-term memory, storage, and cloud services, and their implications in the ever-evolving IT landscape.",
+            "tags": ["Full Stack Engineering", "Blockchain", "SaaS", "E-Commerce","DevSecOps", "OSI Model"],
             "image": {
                 "src": "../../images/transport.jpg",
                 "alt": "Extendable Layout"
@@ -31,40 +31,12 @@
         },
         {
             "visible": true,
-            "category": "🧑🏻 SELF-AWARENESS & AWARENESS OF OTHERS",
-            "title": "Emotional Intelligence",
-            "description": "Emotional Intelligence is a subject that captivates me, encompassing elements such as self-awareness, introspection, motivation, empathy, and social skills. I am deeply intrigued by understanding the impact of emotions on individuals and their relationships. Exploring topics like stress management, effective communication, and conflict resolution on individual, team, and organizational levels is of particular interest to me. Additionally, I have a passion for learning about new languages and exploring their cultural significance. The realm of spirituality and its role in personal and interpersonal growth also holds a special fascination for me.",
-            "tags": ["Emotional Quotient", "Disagreeing Agreeably", "Debate", "Perspective", "Feelings", "Bias", "Fallacies"],
-            "image": {
-                "src": "../../images/walk.png",
-                "alt": "Extendable Layout"
-            },
-            "links": [
-
-            ]
-        },
-        {
-            "visible": true,
-            "category": "🎵 Vibrations & Frequency",
+            "category": "🎵 Melody, Harmony, Vibrations & Frequency",
             "title": "Music",
-            "description": "Music is my ultimate passion, encompassing various aspects such as song and dance, music composition and performance. I find immense joy in actively engaging with music through creating and performing it. I also appreciate the beauty of passively listening to music, allowing its melodies and rhythms to captivate and inspire me. Attending concerts and festivals is a cherished experience, as it allows me to immerse myself in the live music atmosphere. Moreover, I love the spontaneity of jamming with other musicians, creating magical moments through collaborative musical expression. Finally, music serves as a powerful means of sharing life experiences and connecting with others on a deep, emotional level.",
-            "tags": ["Dub", "Americana", "Reggae", "Hip Hop", "EDM", "Rock", "Alternative", "Country", " Indie", "Genre Defying"],
+            "description": "Music is my ultimate artistic expression, covering song, dance, composition, performance, and the music business, including copyright, publishing, and the recording industry. I joyfully create, perform, and deeply appreciate live music experiences at concerts and festivals. STAY TUNED for my SoundCloud tunes coming shortly, my stage name is @rotten_caRot.",
+            "tags": ["Copywriting", "Publishing", "Recording", "Live Entertainment", "Management", "Singing", "Songwriting"],
             "image": {
                 "src": "../../images/singing.jpg",
-                "alt": "Extendable Layout"
-            },
-            "links": [
-
-            ]
-        },
-        {
-            "visible": true,
-            "category": "🏠 Family & Home",
-            "title": "Cats & Dogs",
-            "description": "One of my core values is caring for beings outside of myself, and I take great pleasure in daily care activities. This includes fulfilling the needs of my furry companions, such as walking the dog, changing the cat litter box, and ensuring they are well-fed. I find joy in nurturing them through bathing, cuddling, and providing a loving environment. Teaching tricks to my pets is not only a fun and interactive experience but also strengthens the bond between us. Engaging in these caregiving activities brings me a deep sense of fulfillment and happiness.",
-            "tags": ["Sandy the Golden Retriever", "Honey the Tabby"],
-            "image": {
-                "src": "../../images/animalfriends.jpg",
                 "alt": "Extendable Layout"
             },
             "links": [
