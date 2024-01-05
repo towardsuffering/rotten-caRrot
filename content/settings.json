@@ -28,7 +28,7 @@
                 { "label": "Interests", "url": "/#interests" },
                 { "label": "Contact", "url": "/#contact" }
             ],
-            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Rotunno_Christopher_Resume.pdf" },
+            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Chris_Rotunno_Financial_Economic_SaaS_Analyst_Resume.pdf" },
             "footer": [
                 { "label": "Privacy", "url": "/privacy" },
                 { "label": "Imprint", "url": "/imprint" }
