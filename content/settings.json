@@ -12,14 +12,14 @@
         "social": {
             "behance": "https://behance.com",
             "github": "https://github.com/towardsuffering",
-            "medium": "https://rotten-carot.medium.com",
-            "linkedin": "https://www.linkedin.com/in/rotten-carot/",
+            "medium": "https://medium.com/@carohblog",
+            "linkedin": "https://www.linkedin.com/in/chris-rotunno/",
             "twitter": "",
             "mail": "mailto:chrisrotunno@rootlaboratories.net"
         }
     },
     "siteConfiguration": {
-        "logo": { "text": "@rotten_caRot" },
+        "logo": { "text": "@caRoh" },
         "navigation": {
             "header": [
                 { "label": "Blog", "url": "/#blog" },
@@ -30,8 +30,8 @@
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Chris_Rotunno_Financial_Economic_SaaS_Analyst_Resume.pdf" },
             "footer": [
-                { "label": "Privacy", "url": "/privacy" },
-                { "label": "Imprint", "url": "/imprint" }
+                // { "label": "Privacy", "url": "/privacy" },
+                // { "label": "Imprint", "url": "/imprint" }
             ]
         },
         "featureToggles": {
