@@ -466,7 +466,7 @@ Internally, Portfolio Minimal uses CSS variables to ensure a consistent color sc
 
     body[data-theme='darkTheme'] {
         --primary-color: #fafafa;
-        --secondary-color: #2a2926;
+        --secondary-color: #d55045;
         --tertiary-color: #252525;
         --text-color: rgba(255, 255, 255, 0.87);
         --subtext-color: #aaaaaa;
