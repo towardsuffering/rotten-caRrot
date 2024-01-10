@@ -1,7 +1,7 @@
 module.exports = {
     plugins: [
         {
-            resolve: 'gatsby-theme-portfolio-minimal',
+            resolve: require.resolve(`./gatsby-theme-portfolio-minimal`),
             options: {
                 // siteUrl: "https://example.com", // Used for sitemap generation
                 manifestSettings: {
@@ -18,9 +18,6 @@ module.exports = {
                     path: '/blog', // Defines the slug for the blog listing page
                     usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
                 },
-                // plausibleAnalytics: {
-                //     domain: 'example.com',
-                // },
                 googleAnalytics: {
                     trackingId: "UA-197563814-1",
                     anonymize: true, // Default true
